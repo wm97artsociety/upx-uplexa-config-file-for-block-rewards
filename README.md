@@ -18,7 +18,7 @@ metadata processing for block reward ryzen 5 5000 series 2 hours mining process 
 
 
 
-new amounts 10 mintues later 
+new amounts 5 mintues later 
 
 
  Current Hash Rate: 23.92 KH/sec
@@ -36,7 +36,22 @@ new amounts 10 mintues later
  Last 24 Hours Paid: 2825.16 UPX
 
 
+5 minutes later 12:25 pm 8/12/2025 1 block found 
 
+
+ Current Hash Rate: 23.47 KH/sec
+ Average 1 Hour Hash Rate: 20.7 KH/sec
+ Average 6 Hour Hash Rate: 12.18 KH/sec
+ Average 24 Hour Hash Rate: 5.35 KH/sec
+ Shares: 3760 Valid Shares  0 Invalid Shares 
+ Last Share Submitted: about a minute ago
+ Total Hashes Submitted: 2874296074
+ Block Found: 13  / 17 
+  Payments
+ Pending Balance: 1.82 UPX
+ Unconfirmed Balance:  8489.57 UPX
+ Total Paid: 33459.30 UPX
+ Last 24 Hours Paid: 2825.16 UPX
 
 
 
