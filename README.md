@@ -1,6 +1,7 @@
 # upx-uplexa-config-file-for-block-rewards
 metadata processing for block reward ryzen 5 5000 series 2 hours mining process 7 block reward 
 
+check read me in code mode for correct coding script 
 
 hash rate 22414 hs power to 29639hs power 
 
