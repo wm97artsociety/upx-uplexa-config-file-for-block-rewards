@@ -2,6 +2,9 @@
 metadata processing for block reward ryzen 5 5000 series 2 hours mining process 7 block reward 
 
 
+hash rate 22414 hs power to 29639hs power 
+
+
  Current Hash Rate: 16.39 KH/sec
  Average 1 Hour Hash Rate: 24.03 KH/sec
  Average 6 Hour Hash Rate: 12.17 KH/sec
