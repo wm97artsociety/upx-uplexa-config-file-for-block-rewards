@@ -69,7 +69,7 @@ new amounts 5 mintues later
  Shares: 3829 Valid Shares  0 Invalid Shares 
  Last Share Submitted: 2 minutes ago
  Total Hashes Submitted: 2988106293
- Block Found: 13  / 19 
+ Block Found: 13 pool blocks / 19 solo blocks
   Payments
  Pending Balance: 1.76 UPX
  Unconfirmed Balance:  5649.90 UPX
