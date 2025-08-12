@@ -17,6 +17,29 @@ metadata processing for block reward ryzen 5 5000 series 2 hours mining process 
  Last 24 Hours Paid: 2825.16 UPX
 
 
+
+new amounts 10 mintues later 
+
+
+ Current Hash Rate: 23.92 KH/sec
+ Average 1 Hour Hash Rate: 26.04 KH/sec
+ Average 6 Hour Hash Rate: 12.34 KH/sec
+ Average 24 Hour Hash Rate: 5.23 KH/sec
+ Shares: 3751 Valid Shares  0 Invalid Shares 
+ Last Share Submitted: about a minute ago
+ Total Hashes Submitted: 2860215407
+ Block Found: 13 polo / 16 solo
+  Payments
+ Pending Balance: 1.82 UPX
+ Unconfirmed Balance:  7077.13 UPX
+ Total Paid: 33459.30 UPX
+ Last 24 Hours Paid: 2825.16 UPX
+
+
+
+
+
+
 had to make sure file was working way new to crypto bipolar is awesome :) i have a 28 day later rage disorder 
 
 block meta data processing usage for threads and miner
